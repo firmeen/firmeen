@@ -1,25 +1,10 @@
-คัดลอกทั้งหมดไปวางใน `README.md` ของ repo `firmeen/firmeen` ได้เลย
 
-````md
-<div align="center">
 
-# Hi, I'm Firmeen 👋  
-### AI / Data / Backend / Automation Developer
-
-ผมกำลังโฟกัสงานด้าน **AI, Data Pipeline, Backend API, Dashboard, Web Automation และ Business Intelligence**  
-โดยเน้นการสร้างระบบที่ใช้งานได้จริง ตั้งแต่การดึงข้อมูล → จัดการข้อมูล → วิเคราะห์ → สร้าง API → แสดงผลบน Dashboard
-
-</div>
-
----
+Firmeen 👋 
 
 ## About Me
 
-ผมสนใจการพัฒนาระบบที่เชื่อมระหว่าง **ข้อมูลจริงขององค์กร** กับ **AI / Automation / Web Dashboard**  
-โดยงานที่ทำส่วนใหญ่จะเกี่ยวกับการสร้างระบบหลังบ้าน การดึงข้อมูลจากหลายแหล่ง การออกแบบ API และการนำข้อมูลไปใช้งานต่อในรูปแบบที่เข้าใจง่าย
-
 แนวทางการทำงานของผมคือ:
-
 - ออกแบบระบบจากภาพรวมก่อนลงโค้ดจริง
 - แยกงานเป็น pipeline ชัดเจน
 - ให้ความสำคัญกับ data structure, backend contract และการนำข้อมูลไปใช้ต่อ
