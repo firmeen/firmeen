@@ -1,9 +1,9 @@
 <div align="center">
 
 Firmeen 👋 
-
-## About Me
 </div>
+## About Me
+
 แนวทางการทำงานของผมคือ:
 - ออกแบบระบบจากภาพรวมก่อนลงโค้ดจริง
 - แยกงานเป็น pipeline ชัดเจน
