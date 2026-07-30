@@ -1,8 +1,10 @@
 <div align="center">
 
-Firmeen 👋 
-</div>
+#Firmeen 👋 
+
+
 ## About Me
+</div>
 
 แนวทางการทำงานของผมคือ:
 - ออกแบบระบบจากภาพรวมก่อนลงโค้ดจริง
@@ -11,8 +13,9 @@ Firmeen 👋
 - สร้างระบบที่สามารถต่อยอดเป็น dashboard, API, prediction model หรือ internal tool ได้
 - ชอบงานที่มีทั้ง business logic, technical logic และการใช้งานจริง
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=firmeen&label=Profile%20Views&style=flat" alt="Profile views" />
-
+</div>
 
 ---
 
