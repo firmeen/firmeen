@@ -11,6 +11,7 @@ Firmeen 👋
 - สร้างระบบที่สามารถต่อยอดเป็น dashboard, API, prediction model หรือ internal tool ได้
 - ชอบงานที่มีทั้ง business logic, technical logic และการใช้งานจริง
 
+<img src="https://komarev.com/ghpvc/?username=firmeen&label=Profile%20Views&style=flat" alt="Profile views" />
 ---
 
 ## Main Focus
