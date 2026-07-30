@@ -3,7 +3,7 @@
 Firmeen 👋 
 
 ## About Me
-
+</div>
 แนวทางการทำงานของผมคือ:
 - ออกแบบระบบจากภาพรวมก่อนลงโค้ดจริง
 - แยกงานเป็น pipeline ชัดเจน
@@ -13,7 +13,7 @@ Firmeen 👋
 
 <img src="https://komarev.com/ghpvc/?username=firmeen&label=Profile%20Views&style=flat" alt="Profile views" />
 
-</div>
+
 ---
 
 ## Main Focus
