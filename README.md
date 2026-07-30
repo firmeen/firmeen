@@ -1,4 +1,4 @@
-
+<div align="center">
 
 Firmeen 👋 
 
@@ -12,6 +12,8 @@ Firmeen 👋
 - ชอบงานที่มีทั้ง business logic, technical logic และการใช้งานจริง
 
 <img src="https://komarev.com/ghpvc/?username=firmeen&label=Profile%20Views&style=flat" alt="Profile views" />
+
+</div>
 ---
 
 ## Main Focus
