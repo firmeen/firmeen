@@ -1,311 +1,107 @@
 <div align="center">
 
-#Firmeen 👋 
+# Firmeen
 
+**Building practical systems around data, backend, automation, and business workflows.**
 
-## About Me
-</div>
+`Data Engineering` · `Backend Systems` · `Dashboards` · `Automation` · `Applied AI`
 
-แนวทางการทำงานของผมคือ:
-- ออกแบบระบบจากภาพรวมก่อนลงโค้ดจริง
-- แยกงานเป็น pipeline ชัดเจน
-- ให้ความสำคัญกับ data structure, backend contract และการนำข้อมูลไปใช้ต่อ
-- สร้างระบบที่สามารถต่อยอดเป็น dashboard, API, prediction model หรือ internal tool ได้
-- ชอบงานที่มีทั้ง business logic, technical logic และการใช้งานจริง
+<br />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=firmeen&label=Profile%20Views&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=firmeen&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
+
 </div>
 
 ---
 
-## Main Focus
+## Focus
 
-```text
-AI System Development
-├── Data Pipeline
-├── Backend API
-├── Automation
-├── Dashboard
-├── Prediction / Forecasting
-├── Business Intelligence
-└── Internal Tools
-````
+<div align="center">
+
+**Data Pipelines & Analytics** &nbsp;•&nbsp; **Backend APIs & Integrations** &nbsp;•&nbsp; **Dashboards & Internal Tools** &nbsp;•&nbsp; **Automation & Applied AI**
+
+</div>
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+### Languages & Core
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
 </p>
 
-### Backend
+### Backend & API
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Database / Storage
+### Data, Database & Cloud
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 
-### Tools
+### Development & Delivery
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## Development Style
-
-```text
-My Development Flow
-├── Understand Business Requirement
-├── Define Data Types
-├── Design System Architecture
-├── Create Block Diagram
-├── Build Backend Contract
-├── Implement Data Pipeline
-├── Validate Data Quality
-├── Build API Layer
-├── Connect Frontend
-├── Test Real Use Case
-└── Improve System Step by Step
-```
-
----
-
-## Skills
-
-### Data Engineering
-
-* API data extraction
-* Web scraping
-* Excel database design
-* JSON data handling
-* Data cleaning
-* Data validation
-* Data transformation
-* Historical data management
-* Cache design
-* Error logging
-
-### Backend Development
-
-* FastAPI
-* Flask
-* REST API
-* Service layer architecture
-* API response contract
-* Authentication
-* Role guard
-* Middleware
-* Error handling
-* CORS
-* Static file serving
-
-### Frontend / Dashboard
-
-* React
-* Next.js
-* Tailwind CSS
-* Dashboard layout
-* Filter panel
-* Table view
-* Detail panel
-* Map layer
-* Graph visualization
-* Responsive UI
-
-### AI / Prediction
-
-* Feature engineering
-* Regression model
-* Classification model
-* Quantile prediction
-* Sequence model concept
-* Model input preparation
-* Prediction output design
-* Confidence score design
-* Risk level design
-
-### Business Intelligence
-
-* Company data analysis
-* Policy analysis
-* Linkage analysis
-* Procurement data analysis
-* Flood risk analysis
-* Ranking panel
-* Summary dashboard
-* Data package design
-
----
-
-## Learning Areas
-
-ตอนนี้ผมกำลังพัฒนาและเรียนรู้เพิ่มในเรื่อง:
-
-```text
-Current Learning
-├── Advanced Backend Architecture
-├── FastAPI Production Structure
-├── React / Next.js Dashboard
-├── Data Pipeline Optimization
-├── MySQL Integration
-├── AI API Integration
-├── Graph Visualization
-├── DevOps / Deployment
-├── Git Workflow
-└── Business Intelligence System Design
-```
-
----
-
-## Tools I Use
-
-```text
-Development
-├── VS Code
-├── Spyder
-├── Jupyter
-├── Git
-├── GitHub
-├── Python
-├── Node.js
-└── pnpm
-
-Database
-├── MySQL
-├── Supabase
-├── Excel
-└── JSON
-
-Frontend
-├── React
-├── Next.js
-├── Tailwind CSS
-└── OpenLayers
-
-Backend
-├── FastAPI
-├── Flask
-├── Uvicorn
-└── REST API
-```
-
----
-
-## Project Architecture I Like
-
-```text
-Clean Project
-├── Clear Folder Structure
-├── Clear Naming
-├── Config Separation
-├── Service Layer
-├── API Layer
-├── Utility Layer
-├── Data Validation
-├── Error Log
-├── Debug Log
-├── Cache Management
-└── Documentation
-```
-
----
-
-## My Working Mindset
-
-* Build from real use case
-* Start simple, then improve
-* Make data usable first
-* Separate frontend from backend clearly
-* Keep API contract stable
-* Debug carefully
-* Document system behavior
-* Think in pipeline
-* Think in block diagram
-* Build tools that can actually be used
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=firmeen&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=firmeen&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmeen&layout=compact&hide_border=true" alt="Top languages" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmeen&layout=compact&theme=github_dark&hide_border=true" />
+<br />
 
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firmeen&theme=github-compact&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=firmeen&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
-
----
-
-## Repository Focus
-
-```text
-My GitHub will focus on
-├── AI Projects
-├── Data Pipeline
-├── Backend API
-├── Dashboard
-├── Automation Script
-├── Business Intelligence
-├── Map-Based System
-├── Graph-Based System
-└── Real-World Internal Tools
-```
 
 ---
 
 ## Contact
 
-```text
-GitHub: github.com/firmeen
-Focus: AI, Data, Backend, Dashboard, Automation
-```
-
----
-
 <div align="center">
 
-### Thanks for visiting my profile
+<a href="https://www.instagram.com/ae.crel/">
+  <img src="https://img.shields.io/badge/Instagram-@ae.crel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram ae.crel" />
+</a>
+<a href="https://line.me/ti/p/~firmeenusm">
+  <img src="https://img.shields.io/badge/LINE-firmeenusm-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE firmeenusm" />
+</a>
+<img src="https://img.shields.io/badge/Facebook-Afirmeen_Usman-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Afirmeen Usman" />
+
+<br /><br />
+
+**GitHub:** [@firmeen](https://github.com/firmeen)
 
 </div>
-```
