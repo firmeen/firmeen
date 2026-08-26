@@ -101,22 +101,7 @@
   <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge" alt="MATLAB" />
 </p>
 
----
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=firmeen&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmeen&layout=compact&hide_border=true" alt="Top languages" />
-
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=firmeen&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
 
 ## Contact
 
